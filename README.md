@@ -98,6 +98,6 @@
 
 - 👨‍💻 **Freelancer Desenvolvimento de Bots em Python**\
 📆 2022\
-📍 **Escritório de Advocacia** - Lages/SC, Brazil
+📍 **Escritório de Advocacia** - Lages/SC, Brasil
 
 </details><hr>
