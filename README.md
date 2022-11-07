@@ -29,15 +29,12 @@
 </p>
 
 <p align='center'>
-  Procurando oportunidade na área de programação<br>
-   Disposto a aprender
-  | Fazer hora extra
-  | Trabalhar fins de semana e feriado
+  Procuro oportunidade na área de programação, estou disposto a aprender e meu objetivo é contribuir para o crescimento da empresa<br>
 </p>
 
 <hr>
 <details>
-  <summary>📃 Interesses e desejos</summary>
+  <summary>📃 Conhecimentos e desejos</summary>
    
    - 💹 **Mente empreendedora** - Forte desejo de empreender, criar algo e liderar equipes.
        
@@ -99,5 +96,30 @@
 - 👨‍💻 **Freelancer Desenvolvimento de Bots em Python**\
 📆 2022\
 📍 **Escritório de Advocacia** - Lages/SC, Brasil
+
+</details><hr>
+
+<details>
+  <summary>🎓 Cursos</summary>
+
+  - 🐍 **Python Impressionador - Hashtag Programação (COMPLETO)**<br>
+          - Python do básico ao avançado<br>
+          - Lógica de programaçãoe<br>
+          - Frameworks<br>
+          - Automação<br>
+          - Sites<br>
+          - IA<br> 
+          - Ciência de Dados <br>
+
+  -  📈 **Desenvolvimento Web Completo - Udemy (EM PROGRESSO)**<br>
+          - HTML, CSS, Bootstrap<br>
+          - PHP<br>
+          - JQuery<br>
+          - MySQL<br>
+  
+  -  💰 **Mestres do Capitalismo - Clube do Valor (EM PROGRESSO)**<br>
+          - Gerenciar patrimônio<br>
+          - Agregar valor ao mercado<br>
+          - Investimentos<br>
 
 </details><hr>
