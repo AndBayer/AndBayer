@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Estudante de Ciência da Computação <br>
+  Estudante de Engenharia da Computação <br>
   ⭐ Tenente do Exército Brasileiro ⭐
 </p>
 
