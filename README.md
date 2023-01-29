@@ -1,9 +1,11 @@
 <h1 align='center'>
   Olá 👋 Eu sou o André Bayer ⭐
+  Hello 👋 I'm André Bayer ⭐
 </h1>
 
 <p align='center'>
   Estudante de Engenharia da Computação <br>
+  Computer Engineering Student <br>
   ⭐ Tenente do Exército Brasileiro ⭐
 </p>
 
@@ -30,6 +32,7 @@
 
 <p align='center'>
   Procuro oportunidade na área de programação, estou disposto a aprender e meu objetivo é contribuir para o crescimento da empresa<br>
+  I'm looking for an opportunity in the programming area, I'm willing to learn and my goal is to contribute to the company's growth<br>
 </p>
 
 <hr>
