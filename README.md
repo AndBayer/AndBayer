@@ -6,7 +6,6 @@
 <p align='center'>
   Estudante de Engenharia da Computação <br>
   Computer Engineering Student <br>
-  ⭐ Tenente do Exército Brasileiro ⭐
 </p>
 
 
